@@ -1,0 +1,14 @@
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\bin\Debug\net8.0\TranChiVi_Bai2.exe
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\bin\Debug\net8.0\TranChiVi_Bai2.deps.json
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\bin\Debug\net8.0\TranChiVi_Bai2.runtimeconfig.json
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\bin\Debug\net8.0\TranChiVi_Bai2.dll
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\bin\Debug\net8.0\TranChiVi_Bai2.pdb
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.AssemblyInfoInputs.cache
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.AssemblyInfo.cs
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.csproj.CoreCompileInputs.cache
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.dll
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\refint\TranChiVi_Bai2.dll
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.pdb
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\TranChiVi_Bai2.genruntimeconfig.cache
+D:\CauTrucDL_Va_GiaiThuat\TranChiVi_ThiCK_CTDLGT\TranChiVi_Bai2\obj\Debug\net8.0\ref\TranChiVi_Bai2.dll
